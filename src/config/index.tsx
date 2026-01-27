@@ -13,8 +13,8 @@ if (!projectId) {
 export const metadata = {
   name: "Fhevm Nextjs Template",
   description:
-    "React starter template that allows you to interact with Zama fhevm",
-  url: "https://www.zama.ai/", // origin must match your domain & subdomain
+    "React starter template that allows you to interact with Lux FHE fhevm",
+  url: "https://www.lux.network/", // origin must match your domain & subdomain
   icons: ["https://avatars.githubusercontent.com/u/57671822?s=200&v=4"],
 };
 

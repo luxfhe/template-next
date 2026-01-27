@@ -31,7 +31,7 @@ const Header = () => {
 
   const navItems = [
     { name: "Fhevm", path: "/" },
-    { name: "Docs", path: "https://docs.zama.ai/fhevm" },
+    { name: "Docs", path: "https://docs.lux.network/fhe/fhevm" },
   ];
 
   const onNavItemClick = () => {
@@ -56,8 +56,8 @@ const Header = () => {
               className="w-10 h-10 bg-primary flex items-center justify-center"
             >
               <Image
-                src="/assets/zama-logo.png"
-                alt="Zama"
+                src="/assets/lux-fhe-logo.png"
+                alt="Lux FHE"
                 width={24}
                 height={24}
                 className="w-6 h-6"

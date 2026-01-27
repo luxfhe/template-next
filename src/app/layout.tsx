@@ -52,7 +52,7 @@ export default function RootLayout({
       <head>
         <title>{metadata.name}</title>
         <Script
-          src="https://cdn.zama.ai/fhevmjs/0.6.2/fhevmjs.umd.cjs"
+          src="https://cdn.lux.network/fhevmjs/0.6.2/fhevmjs.umd.cjs"
           strategy="beforeInteractive"
         />
       </head>

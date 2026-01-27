@@ -22,7 +22,7 @@ function App() {
           <p className="text-muted-foreground text-md">
             See the{" "}
             <a
-              href="https://docs.zama.ai/fhevm"
+              href="https://docs.lux.network/fhe/fhevm"
               target="_blank"
               rel="noopener noreferrer"
               className="underline"
